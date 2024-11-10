@@ -1,3 +1,6 @@
 [submodule "CARPARTS"]
 	path = CARPARTS
 	url = https://github.com/Abdullah5-boop/CARPARTS
+[submodule "CARPARTS_Server"]
+	path = CARPARTS_Server
+	url = https://github.com/Abdullah5-boop/CARPARTS_Server
